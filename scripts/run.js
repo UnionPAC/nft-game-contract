@@ -17,8 +17,10 @@ const main = async () => {
     await gameContract.deployed();
     console.log("Contract deployed to:", gameContract.address);
 
+    // mint character w/ Character Index 1
     let createTx = await gameContract.mintCharacterNFT(1);
     
+    // get the tokenURI of tokenId 1
     let tx = await gameContract.tokenURI(1);
     console.log(tx)
   };
