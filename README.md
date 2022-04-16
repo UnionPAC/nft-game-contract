@@ -5,7 +5,7 @@
 - 💻 See the repo for the Dapp's frontend [here](https://github.com/UnionPAC/nft-game-frontend)
 
 
- ### Project Details
+ ### 👻 _Project Details_
  
  Environment was setup w/ _hardhat basic sample project_
  - Smart Contracts written in Solidity
