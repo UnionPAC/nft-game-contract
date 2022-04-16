@@ -1,9 +1,9 @@
 module.exports = [
   ["Sango", "Shippo", "Inuyasha"],
   [
-    "https://i.pinimg.com/550x/70/de/1e/70de1e9268bd640b15dde66ad85427fb.jpg",
-    "https://data.whicdn.com/images/340660563/original.jpg",
-    "https://cdn.anime-planet.com/characters/primary/inuyasha-1.jpg?t=1625773579",
+    "bafybeicsqteyfhsezm7rv37daqsh6rjn6vrsdgfzgwmwjyufrh6qjr3fze",
+    "bafybeidg5il4nyhipxbifhezwx3vbd3z6dkpfd3jzxxo473s7m6t2jhymm",
+    "bafybeiheneafrx7h2gj7eowlfofltwi6jxygfwldsma3uqodmo3jqywcxy",
   ],
   ["300", "100", "500"],
   [75, 50, 150],
