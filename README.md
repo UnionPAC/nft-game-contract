@@ -5,6 +5,9 @@
 - 💻 See the repo for the Dapp's frontend [here](https://github.com/UnionPAC/nft-game-frontend)
 
 
- ### Created Using Basic Sample Hardhat Project
+ ### Project Details
  
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+ Environment was setup w/ _hardhat basic sample project_
+ - Smart Contracts written in Solidity
+ - Contract deployments to localhost & rinkeby
+ - Etherscan Verify Contract ✅
